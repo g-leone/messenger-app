@@ -6,3 +6,5 @@ TODO:
 2. Clean pull out data to db, handled by server
 3. Search users to friend
 4. Add Giphys to send
+5. https://webrtc.org/
+6. Audio, video, and calling capabilities
